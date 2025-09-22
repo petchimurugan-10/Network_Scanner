@@ -1,7 +1,7 @@
-# Network Vulnerability Scanner
+# Network Scanner
 
 ## Overview
-The **Network Vulnerability Scanner** is a security tool developed in **C++** that scans a given network to identify potential vulnerabilities. It helps users assess security risks by detecting open ports, outdated services, and misconfigurations. The scanner leverages well-known scanning techniques to provide accurate and detailed reports.
+The **Network Scanner** is a tool developed in **C++** that scans a given network to scan its ports, services. It helps users assess security risks by detecting open ports, outdated services, and misconfigurations. The scanner leverages well-known scanning techniques to provide accurate and detailed reports.
 
 ## Features
 - **Port Scanning**: Identifies open ports and running services.
